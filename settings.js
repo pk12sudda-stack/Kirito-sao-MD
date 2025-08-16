@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "drakonis~h6tRxTiB#UY3vwnv4ZEGYXVn9ASs80ZRFftIppXDKy11SsI2dxR4",
     // add your Session Id make sure it starts with kirito~
 
     PREFIX: process.env.PREFIX || ".",
@@ -30,7 +30,7 @@ module.exports = {
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "👽",
     // make true if you want auto reply on status 
 
     AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Kirito-sao-MD 😆*",
@@ -57,9 +57,8 @@ module.exports = {
     LIVE_MSG: process.env.LIVE_MSG || 
 `> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ
 
-ᴋᴇᴇᴘ ᴜsɪɴɢ ✦Kirito-sao-MD✦ ғʀᴏᴍ sungsu ᴛᴇᴄʜ ɪɴᴄ⚡
-
-*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*
+ｓｕｄｅｅｐａ  ｓｕｂｈａｈｕ
+*© ꜱɪᴅᴅɪ *
 
 > ɢɪᴛʜᴜʙ :github.com/NaCkS-ai/Kirito-sao-MD`,
     // add alive msg here 
@@ -76,13 +75,13 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "12363621958",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "94762747158",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "dev sung",
+    OWNER_NAME: process.env.OWNER_NAME || "ꜱᴜᴅᴇᴇᴏᴀ ꜱᴜʙʜᴀʜᴜ",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ dev sung*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© 🐰  수디파  수바후 💀┃❕👅*",
     // add bot owner description  
 
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -115,7 +114,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "12363621958",
+    DEV: process.env.DEV || "94762747158",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
@@ -130,9 +129,9 @@ module.exports = {
     version: process.env.version || "0.0.5-beta",
 
     START_MSG: process.env.START_MSG || 
-`*Hᴇʟʟᴏ ᴛʜᴇʀᴇ Kirito-sao-MD ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
+`* Kirito-sao-MD! 👋🏻* 
 
-*ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ Kirito-sao-MD🚩* 
+* Kirito-sao-MD👽* 
 
 > sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
 https://youtube.com/@malvintech2
@@ -143,5 +142,5 @@ https://youtube.com/@malvintech2
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
 https://github.com/NaCkS-ai/Kirito-sao-MD
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ dev sung 🇿🇼`
+> © ꜱᴜᴅᴇᴇᴘᴀ  🃏`
 };
